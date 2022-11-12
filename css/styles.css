@@ -159,10 +159,6 @@ img {
   color: var(--hover-color);
 }
 
-.header-list .header-link.current-portfolio {
-  color: var(--hover-color);
-  }
-
 /* main */
 .main-business {
   background-color: #2f303a;
